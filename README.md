@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MarcosPeyerl-MVSP
 - 👀 I’m interested in coding: Robots & Windows Forms & Console
 - 🌱 I’m currently learning: Java & C# 
-- 💞️ I’m looking to collaborate on: Studing projects
+- 🫡 I’m looking to collaborate on: Studing projects
 - 📫 How to reach me: marcos.peyerl@edu.fecap.br
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: My first language was VB6
 
 <!---
